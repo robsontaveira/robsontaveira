@@ -1,5 +1,7 @@
 ### Hi  👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=robsontaveira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <!--
 **robsontaveira/robsontaveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
